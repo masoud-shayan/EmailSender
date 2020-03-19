@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alekhandr0\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_EmailApp.1779205341.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alekhandr0\Desktop\dot-net-core\PracticalApps\EmailApp" t="IncludeFlat">
+      <e p="EmailApp" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="SendEmailController.cs" t="Include" />
+        </e>
+        <e p="EmailApp.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="EmailApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="EmailApp.sln" t="IncludeFlat" />
+      <e p="EmailService" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="EmailConfiguration.cs" t="Include" />
+        <e p="EmailSender.cs" t="Include" />
+        <e p="EmailService.csproj" t="IncludeRecursive" />
+        <e p="IEmailSender.cs" t="Include" />
+        <e p="Message.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="EmailService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
